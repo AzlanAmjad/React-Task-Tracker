@@ -1,6 +1,6 @@
 # React-Task-Tracker
 
-A simple task tracking application built using ReactJS
+A simple task tracking application built using ReactJS, HTML, and CSS
 
 # Preview
 
