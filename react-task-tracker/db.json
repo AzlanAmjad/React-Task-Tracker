@@ -11,18 +11,6 @@
       "text": "SENG 438 Exam",
       "day": "April 28th at 10:00am",
       "reminder": true
-    },
-    {
-      "text": "Doctors Appointment",
-      "day": "April 15th",
-      "reminder": true,
-      "id": 5
-    },
-    {
-      "text": "Take Test",
-      "day": "April 1st",
-      "reminder": true,
-      "id": 6
     }
   ]
 }
