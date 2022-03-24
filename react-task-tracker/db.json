@@ -4,13 +4,13 @@
       "id": 2,
       "text": "CPSC 471 Homework 5",
       "day": "April 3rd at 11:59pm",
-      "reminder": true
+      "reminder": false
     },
     {
-      "id": 3,
-      "text": "SENG 438 Exam",
-      "day": "April 28th at 10:00am",
-      "reminder": true
+      "text": "Workout",
+      "day": "April 23rd at 4pm",
+      "reminder": true,
+      "id": 3
     }
   ]
 }
